@@ -52,6 +52,11 @@
 	?>
 		</nav><!-- #site-navigation -->
 
+
+<div class="site-branding">
+	<img class="site-logo" src="http://localhost/unity-task/wp-content/uploads/logo-placeholder-png.png">
+</div>
+
 		<?php
 		// Output the menu modal.
 		get_template_part( 'template-parts/modal-menu' );
